@@ -1,0 +1,7 @@
+.Search_Input {
+  display: flex;
+  flex-direction: row;
+  border: 1px solid lightgray;
+  height: 30px;
+  
+}

@@ -1,0 +1,19 @@
+import React from "react";
+import SearchIcon from "@material-ui/icons/Search";
+import Searchcss from "./Search.css";
+import MicIcon from "@material-ui/icons/Mic";
+const Search = () => {
+  return (
+    <div className="Search">
+      <div className="Search_Input">
+        <SearchIcon className="search_inputIcon" />
+        <input type="text" name="Aasif" placeholder="Search someting here." />
+        <MicIcon className="search_inputIcon" />
+      </div>
+      {/* <div cla
+       */}
+    </div>
+  );
+};
+
+export default Search;

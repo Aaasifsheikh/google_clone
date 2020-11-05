@@ -1,0 +1,15 @@
+.search_Input {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  border: 1x solid lightgray;
+  height: 30px;
+  padding: 10px 20px;
+  bror
+
+}
+.search_button{
+    display: flex;
+    flex-direction: row;
+    background: blue;
+}

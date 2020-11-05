@@ -1,0 +1,16 @@
+.home{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+.home_header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 30px;
+}
+.home_headerLeft{
+    display: flex;
+   flex-direction: row;
+   justify-content: space-;
+}

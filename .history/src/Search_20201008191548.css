@@ -1,0 +1,11 @@
+.search_Input {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  border: 10x solid lightgray;
+}
+.search_button{
+    display: flex;
+    flex-direction: row;
+    background-color: blue;
+}

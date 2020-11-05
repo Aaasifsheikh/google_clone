@@ -1,0 +1,7 @@
+.search_Input{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 10x solid lightgray;
+
+}

@@ -1,0 +1,27 @@
+.Search_Input {
+  display: flex;
+  align-items: center;
+  border: 1px solid lightgray;
+  height: 30px;
+  padding: 10px 20px;
+  border-radius: 999px;
+  width: 75vw;
+  margin: 0 auto;
+  margin-top: 40px;
+  min-width: 560px;
+}
+.Search_Input > input {
+  flex: 1;
+  padding: 10px 20px;
+  font-size: medium;
+  border: none;
+}
+.Search_Input > input:focus {
+  outline-width: 20px;
+}
+.Search_inputIcon{
+    color: gray;
+}
+.search_hiddenButton{
+    display: none !;
+}
