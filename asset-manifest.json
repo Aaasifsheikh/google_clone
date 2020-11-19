@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/google_clone/static/css/main.bcdbff02.chunk.css",
-    "main.js": "/google_clone/static/js/main.7f41128d.chunk.js",
-    "main.js.map": "/google_clone/static/js/main.7f41128d.chunk.js.map",
+    "main.js": "/google_clone/static/js/main.f384f277.chunk.js",
+    "main.js.map": "/google_clone/static/js/main.f384f277.chunk.js.map",
     "runtime-main.js": "/google_clone/static/js/runtime-main.4fe6abac.js",
     "runtime-main.js.map": "/google_clone/static/js/runtime-main.4fe6abac.js.map",
-    "static/js/2.dfc960a2.chunk.js": "/google_clone/static/js/2.dfc960a2.chunk.js",
-    "static/js/2.dfc960a2.chunk.js.map": "/google_clone/static/js/2.dfc960a2.chunk.js.map",
+    "static/js/2.8cd8a03e.chunk.js": "/google_clone/static/js/2.8cd8a03e.chunk.js",
+    "static/js/2.8cd8a03e.chunk.js.map": "/google_clone/static/js/2.8cd8a03e.chunk.js.map",
     "index.html": "/google_clone/index.html",
-    "precache-manifest.613092d259a1ddfed0e8cd12acee9445.js": "/google_clone/precache-manifest.613092d259a1ddfed0e8cd12acee9445.js",
+    "precache-manifest.831e5c1d62af3b9e5d256ef4745eb5c9.js": "/google_clone/precache-manifest.831e5c1d62af3b9e5d256ef4745eb5c9.js",
     "service-worker.js": "/google_clone/service-worker.js",
     "static/css/main.bcdbff02.chunk.css.map": "/google_clone/static/css/main.bcdbff02.chunk.css.map",
-    "static/js/2.dfc960a2.chunk.js.LICENSE.txt": "/google_clone/static/js/2.dfc960a2.chunk.js.LICENSE.txt",
+    "static/js/2.8cd8a03e.chunk.js.LICENSE.txt": "/google_clone/static/js/2.8cd8a03e.chunk.js.LICENSE.txt",
     "static/media/2WhatsApp Image 2020-10-08 at 3.09.05 PM.jpeg": "/google_clone/static/media/2WhatsApp Image 2020-10-08 at 3.09.05 PM.09cf3655.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.4fe6abac.js",
-    "static/js/2.dfc960a2.chunk.js",
+    "static/js/2.8cd8a03e.chunk.js",
     "static/css/main.bcdbff02.chunk.css",
-    "static/js/main.7f41128d.chunk.js"
+    "static/js/main.f384f277.chunk.js"
   ]
 }
