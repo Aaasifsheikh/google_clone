@@ -5,7 +5,8 @@ import MicIcon from "@material-ui/icons/Mic";
 import { Button } from "@material-ui/core";
 import { useHistory } from "react-router-dom";
 import searchResult from "./searchResult";
-import InstagramEmbed from "react-instagram-embed";
+import InstagramEmbed from 'react-instagram-embed';
+
 
 const Search = (hideButtons = false) => {
   const [input, setInput] = useState();
@@ -53,18 +54,12 @@ const Search = (hideButtons = false) => {
         )}
       </form>
       <InstagramEmbed
-        url="https://instagram/p/CDWIKGvBgup/"
-        clientAccessToken="IGQVJXeEVsamdQa3YwZADBlUFJWRTFjZAFJia0tjalhDY1lZARFlsWlV1cXJLMWFtbVpKSnhPNE96bkJQN25DSU8tUlBQYUQxRFFyMFRwb2tDZA0NTSlpDSkUyWXMwYk5kekZA5WHpTb0ZALV05RNmJsdGs4cwZDZD"
+        url='https://instagr.am/p/Zw9o4/'
+        clientAccessToken='123|456'
         maxWidth={320}
         hideCaption={false}
-        containerTagName="div"
-        protocol=""
-        injectScript
-        onLoading={() => {}}
-        onSuccess={() => {}}
-        onAfterRender={() => {}}
-        onFailure={() => {}}
-      />
+
+
     </div>
   );
 };

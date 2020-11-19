@@ -53,8 +53,8 @@ const Search = (hideButtons = false) => {
         )}
       </form>
       <InstagramEmbed
-        url="https://instagram/p/CDWIKGvBgup/"
-        clientAccessToken="IGQVJXeEVsamdQa3YwZADBlUFJWRTFjZAFJia0tjalhDY1lZARFlsWlV1cXJLMWFtbVpKSnhPNE96bkJQN25DSU8tUlBQYUQxRFFyMFRwb2tDZA0NTSlpDSkUyWXMwYk5kekZA5WHpTb0ZALV05RNmJsdGs4cwZDZD"
+        url="https://instagr.am/p/Zw9o4/"
+        clientAccessToken="123|456"
         maxWidth={320}
         hideCaption={false}
         containerTagName="div"
